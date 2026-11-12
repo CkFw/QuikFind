@@ -1,0 +1,14 @@
+# Папки сборки и временные файлы Visual Studio
+.vs/
+x64/
+x86/
+Debug/
+Release/
+
+# Скомпилированные файлы и отладка
+*.exe
+*.pdb
+*.ilk
+*.obj
+*.pch
+*.user

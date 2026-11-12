@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="QuikFind/QuikFind.vcxproj" Id="b7ce62b7-63d5-4583-9d23-ec0bef17733f" />
+</Solution>
